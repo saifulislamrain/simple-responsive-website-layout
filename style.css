@@ -63,7 +63,7 @@
 /* responsive css area  */
 
 
-@media screen and (max-width: 577px) {
+@media screen and (max-width: 576px) {
     .container {
         /* display: grid; */
         grid-template-columns: 1fr;
